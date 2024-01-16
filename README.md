@@ -1,7 +1,11 @@
-### DÔ DÂY LÀM GÌ ? MUỐN GÌ ? 👋
+### MUỐN GÌ Ở ĐÂY ? 👋
+---
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcam-lan-suc-walk-flip-hair-grass-gif-16978098&psig=AOvVaw1v9qSE0jWcR5lA5moYUFtf&ust=1705464561592000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjt5OiE4YMDFQAAAAAdAAAAABAN" width="100"/>
+  <img src="https://res.cloudinary.com/thientam2829/image/upload/v1705378304/qyrvj7yycrm22j3tcelp.gif" width="200"/>
 </div>
+---
+
+
 <!--
 **thientam2829/thientam2829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
