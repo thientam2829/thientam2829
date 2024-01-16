@@ -1,4 +1,4 @@
-### Hi there 👋
+### BÊ ĐÊ ĐI CODE 👋
 
 <!--
 **thientam2829/thientam2829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
